@@ -117,3 +117,6 @@ PhotoViewer.show('http://my_site.com/my_image.jpg', 'Optional Title', options);
 
 (1.3.2)
 - Fix maven dependency
+
+(1.3.3)
+- Migrate to Baseflow implementation
