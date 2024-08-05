@@ -4,7 +4,7 @@
 ## How to Install
 
 ```bash
-cordova plugin add corodva-plugin-photo-viewer
+cordova plugin add @thing-it/corodva-plugin-photo-viewer
 ```
 
 ### Android
