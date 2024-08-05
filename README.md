@@ -3,15 +3,8 @@
 
 ## How to Install
 
-Cordova:
 ```bash
-cordova plugin add com-sarriaroman-photoviewer
-```
-
-Ionic 2:
-```bash
-$ ionic cordova plugin add com-sarriaroman-photoviewer
-$ npm install --save @ionic-native/photo-viewer
+cordova plugin add corodva-plugin-photo-viewer
 ```
 
 ### Android
@@ -121,3 +114,6 @@ PhotoViewer.show('http://my_site.com/my_image.jpg', 'Optional Title', options);
 - Update Picasso Library to 2.71828
 - Fixed Picasso Bug
 - Thanks to @TdoubleG
+
+(1.3.2)
+- Fix maven dependency
