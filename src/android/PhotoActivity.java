@@ -31,7 +31,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.lang.reflect.Method;
-import uk.co.senab.photoview.PhotoViewAttacher;
+import com.github.chrisbanes.photoview.PhotoViewAttacher;
 
 public class PhotoActivity extends Activity {
     private PhotoViewAttacher mAttacher;

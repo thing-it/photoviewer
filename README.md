@@ -120,3 +120,6 @@ PhotoViewer.show('http://my_site.com/my_image.jpg', 'Optional Title', options);
 
 (1.3.3)
 - Migrate to Baseflow implementation
+
+(1.3.4)
+- Update PhotoViewAttacher import
